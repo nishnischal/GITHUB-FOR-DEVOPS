@@ -1,53 +1,6 @@
-   3 clear                                                                                      
-   4 ls -la                                                                                     
-   5 clea                                                                                       
-   6 clear                                                                                      
-   7 dir -force                                                                                 
-   8 clear                                                                                      
-   9 git status                                                                                 
-  10 ls                                                                                         
-  11 dir                                                                                        
-  12 clear                                                                                      
-  13 git status                                                                                 
-  14 git status                                                                                 
-  15 clear                                                                                      
-  16 git status                                                                                 
-  17 clear                                                                                      
-  18 ls -la                                                                                     
-  19 clear                                                                                      
-  20 ls                                                                                         
-  21 clear                                                                                      
-  22 ls                                                                                         
-  23 clear                                                                                      
-  24 ls                                                                                         
-  25 clear                                                                                      
-  26 ls                                                                                         
-  27 clear                                                                                      
-  28 git add testing.py                                                                         
-  29 git status                                                                                 
-  30 git rm --cache testing.py                                                                  
-  31 git status                                                                                 
-  32 clear                                                                                      
-  33 git status                                                                                 
-  34 git add .                                                                                  
-  35 git status                                                                                 
-  36 git commit -m "adding testing files"                                                       
-  37 git status                                                                                 
-  38 ls                                                                                         
-  39 clear                                                                                      
-  40 ls                                                                                         
-  41 clear                                                                                      
-  42 git status                                                                                 
-  43 git restore testing.py                                                                     
-  44 ls                                                                                         
-  45 clear                                                                                      
-  46 ls                                                                                         
-  47 clear                                                                                      
-  48 ls -la                                                                                     
-  49 clear                                                                                      
-  50 dir                                                                                        
-  51 clear                                                                                      
-  52 ls                                                                                         
-  53 clear                                                                                      
-  54 git status                                                                                 
-           
+git status
+git add 
+git add . 
+git rm --cache <filename> 
+git commit -m "added testing files" 
+git restore <file name> (only can be used after tracking)
