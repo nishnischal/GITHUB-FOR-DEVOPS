@@ -1,5 +1,4 @@
-def my_function():
-    
+def my_function():    
     a = 5
     return a
 
